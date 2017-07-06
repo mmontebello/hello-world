@@ -1,0 +1,625 @@
+Adriana	Agata	Agrippina
+Afrodite	Agape	Abia
+Abigail	Aglaia	Addolorata
+Agea	Agnese	Adelma
+Anella	Alba	Aide
+Abbondanza	Aldemara	Adelia
+Adalberta	Alina	Alessandra
+Aida	Allegra	Alessia
+Achillea	Alida	Alidea
+Adelaide	Albina	Alberta
+Adelina	Amanda	Amata
+Adelfa	Alicia	Abela
+Agostina	Amaranta	Ambra
+Alcina	Alda	Ausilia
+Acilia	Amalia	Amelia
+Adelasia	Azzurra	Achiropita
+Adalia	Anastasia	Andreina
+Adria	Angela	Adalgisa
+Alice	Angelica	Alfonsina
+Alma	Altea	Anisia
+Ada	Adele	Anita
+Anna	Annachiara	Annalaura
+Annamaria	Annabella	Antea
+Annunziata	Anselma	Antonella
+Antonietta	Antonia	Apollonia
+Apollonia	Arabella	Ariela
+Aretusa	Artemia	Argea
+Artemisia	Asia	Arianna
+Assunta	Aurea	Aurelia
+Aura	Aurora	Augusta
+Maschili Aldo	Adamo	Aceste
+Antimo	Agostino	Alfeo
+Acilio	Alessio	Abaco
+Agamennone	Albino	Alfiero
+Adelasio	Alderico	Abramo
+Alberico	Alessandro	Adriano
+Abbondio	Alceo	Amabile
+Adone	Alvaro	Amedeo
+Alcide	Aldemaro	Abelardo
+Abele	Alfio	Ambrogio
+Alduino	Amato	Aidano
+Adelmo	Amerigo	Acrisio
+Augusto	Anatolio	Ademaro
+Altiero	Aniceto	Alfonso
+Achille	Amaranto	Annibale
+Agapito	Antonio	Alonzo
+Amelio	Amando	Atanasio
+Agrippino	Angelo	Antonello
+Adalbero	Ascanio	Apollo
+Alfredo	Antonino	Albano
+Adolfo	Anacleto	Apollonio
+Amleto	Antioco	Amanzio
+Aiace	Arcangelo	Adalgiso
+Alceste	Ansano	Adelfo
+Adelmiro	Arturo	Anselmo
+Adelio	Arcibaldo	Aurelio
+Alberto	Ariele	Aimone
+Andrea	Anastasio	Amos
+Alarico	Ariosto	Aristide
+Anteo	Arnoldo	Barbara	Berenice
+Bella	Batilda
+Benedetta	Basilia
+Bea	Biancamaria
+Bruna	Beatrice
+Brigida	Barbarella
+Bartolomea	Brunilde
+Bibiana	Benilde
+Benvenuta	Betta
+Belinda	Briseide
+Belilde	Bianca
+Berta	Bernarda
+Belilde	
+Maschili Bartolomeo	Battista
+Basilio	Basileo
+Benedetto	Baldovino
+Bacco	Bernardo
+Bertoldo	Bertrando
+Biagio	Bartolo
+Barnaba	Boezio
+Bardo	Berardo
+Bonaventura	Benvenuto
+Baldo	Bonifacio
+Boris	Beniamino
+Brando	Bruno
+Bettino	Benito
+Camelia	Chiara	Carola
+Calliope	Clara	Candida
+Cinzia	Clelia	Carmela
+Calogera	Celia	Carolina
+Cecilia	Columba	Carlotta
+Camilla	Cilinia	Cassandra
+Carla	Cloe	Cleope
+Celeste	Claudia	Cabiria
+Carina	Clodia	Concetta
+Carmen	Cleo	Celinia
+Cassia	Clizia	Catina
+Catrina	Catalina	Catia
+Clarissa	Clementina	Cloride
+Caterina	Cleopatra	Cassiopea
+Cirenia	Clotilde	Cesira
+Clia	Consolata	Cora
+Clarice	Coralla	Cirilla
+Cosima	Costanza	Crescenzia
+Cornelia	Cunegonda	Cosma
+Cordelia	Corina	Corinna
+Cristiana	Cristal	Cristina
+Criseide		
+Maschili Carlo	Cartesio	Calogero
+Camillo	Casimiro	Calliopo
+Caio	Cinzio	Colombo
+Celio	Cirillo	Contardo
+Caino	Cloridano	Carmine
+Cimone	Clodomiro	Candido
+Callisto	Clemente	Cicerone
+Cino	Corebo	Cafiero
+Carmelo	Cornelio	Canzio
+Clementino	Claudio	Cataldo
+Calimero	Corrado	Cassio
+Cirano	Cosimo	Catullo
+Catello	Costante	Cesarino
+Cipriano	Costantino	Cecilio
+Carisio	Costanzo	Crescente
+Clodolfo	Cunialdo	Celerino
+Celestino	Curzio	Christian
+Cleone	Cristoforo	Celiano
+Celidonio	Cristiano	Cristian
+Cesidio	Cristaldo	Celino
+Celso	Crispino	Crisante
+Ciro	Crescenzio	Cesare
+Daniela	Daria	Dalia
+Dafne	Deianira	Delia
+Danila	Delfina	Dania
+Dalila	Demetria	Damia
+Damiana	Demetra	Danelia
+Desideria	Daiana	Domitilla
+Diana	Diomira	Debora
+Desdemona	Dirce	Dina
+Diodora	Denise	Diletta
+Dionira	Domenica	Domia
+Donatella	Dora	Dionigia
+Denisia	Dorelia	Doriana
+Donata	Dorina	Diva
+Drusilla	Doretta	Dorotea
+Maschili Damiano	Demetrio	Dasio
+Dalmazio	Desiderio	Danao
+Dino	Daniele	Dioclezio
+Dario	Dionigi	Donatello
+Damocle	Donato	Desiderato
+Diego	Donnione	Danilo
+Danio	Dionisio	Domezio
+Diomede	Domenico	Decio
+Daciano	Doriano	Didimo
+Delfino	Doroteo	Davide
+Diodoro	Druso	Dardano
+Decimo	Duilio	Demiro
+Domiziano	Durante	Diogene
+Didaco	Dante	Elena	Eletta	Eda
+Edda	Elide	Egle
+Edmea	Elenia	Egina
+Edera	Elodia	Editta
+Elidia	Elisabetta	Eleonora
+Edmonda	Elisa	Elsa
+Egeria	Emanuela	Elvira
+Elvezia	Emiliana	Enrica
+Ecate	Emma	Eleuteria
+Elga	Erasma	Enone
+Eloisa	Emi	Eliana
+Elettra	Enrichetta	Ernella
+Elsia	Erlinda	Edma
+Edvige	Ermelinda	Erminia
+Emerenziana	Emilia	Ermione
+Erina	Ermenegilda	Eloisia
+Erica	Erika	Ernestina
+Erna	Ersilia	Ester
+Estella	Evelina	Eufemia
+Eugenia	Eunice	Eva
+Eulalia	Eurosia	Eufrasia
+Maschili Edilberto	Elio	Egidio
+Eberardo	Eliseo	Egeo
+Edgardo	Eraclide	Eustachio
+Enrico	Eraclio	Efisio
+Edmondo	Erberto	Edilio
+Ezio	Ermanno	Efebo
+Emilio	Ermelao	Elpidio
+Edoardo	Ermenegildo	Elano
+Eolo	Erasmo	Emanuele
+Eldrado	Ermes	Eleuterio
+Elvino	Ernesto	Eligio
+Edipo	Eros	Esiodo
+Emiliano	Ervino	Elmo
+Enotrio	Ettore	Ennio
+Egisto	Euclide	Enzo
+Elvio	Epifanio	Edo
+Emone	Eudoro	Emmerico
+Eliano	Eufemio	Eufrasio
+Evaristo	Eraldo	Emidio
+Everardo	Ercolano	Espedito
+Eugenio	Ezechiele	Eusebio
+Fabiana	Febe	Faina
+Fabiola	Fedra	Fabrizia
+Federica	Feliciana	Filippa
+Fabia	Fenisia	Fatima
+Felicia	Fidalma	Fara
+Faustina	Ferdinanda	Fiamma
+Fausta	Fiammetta	Filomena
+Fevronia	Flaviana	Fenia
+Felicita	Fenizia	Fernanda
+Fiorella	Flavia	Flaminia
+Florenzia	Floria	Fiore
+Floriana	Fosca	Franca
+Fiorina	Frediana	Francesca
+Fioralba	Fiorisa	Fiorenza
+Flora	Fortunia	Fulvia
+Frida	Frine	
+Maschili Fabio	Federico	Fazio
+Faustino	Fiero	Fabrizio
+Fedro	Filiberto	Fiorello
+Fabiano	Febo	Flaminio
+Fausto	Fineo	Filotero
+Filippo	Floriano	Famiano
+Faone	Firmino	Florio
+Filomeno	Friso	Fedele
+Felice	Fiorenzo	Frumenzio
+Filoteo	Fulberto	Feliciano
+Faliero	Fulvio	Furio
+Fidenzio	Frediano	Franco
+Flavio	Francesco	Ferruccio
+Ferrante	Fortunato	Fosco
+Folco	Frido	Fernando
+Ferdinando	Floriberto	Filemone
+Gaia	Genesia	Gertrude
+Gaetana	Genoveffa	Germana
+Geltrude	Giacinta	Gianna
+Gelsina	Gioconda	Gelsa
+Giralda	Giovanna	Giannica
+Gaudenzia	Giana	Giselda
+Gigliola	Gisella	Giada
+Gelsomina	Giliana	Gia
+Gemma	Gioia	Gabriella
+Gilda	Gigia	Giaele
+Gardenia	Gina	Giorgiana
+Giorgia	Giordana	Ginevra
+Giulia	Giustina	Giuditta
+Giuliana	Gloria	Graziana
+Giulietta	Grazia	Graziella
+Giuseppa	Grimilde	Griselda
+Giuseppina	Guendalina	Gloriana
+Guenda	Gelma	
+Maschili Gaetano	Galvano	Gabriele
+Gaudo	Gerone	Gennaro
+Giacinto	Gaudenzio	Giacobbe
+Gherardo	Giacomo	Gabino
+Gaspare	Giasone	Giorgio
+Genesio	Gioberto	Geminiano
+Graziano	Gerardo	Galdino
+Gaio	Gregorio	Guglielmo
+Geraldo	Gandolfo	Gioele
+Gildo	Giona	Guido
+Gavino	Gilberto	Gelindo
+Germano	Giordano	Giraldo
+Galileo	Gino	Giosuè
+Gioacchino	Giovanni	Gervasio
+Giustino	Gianni	Gustavo
+Gesualdo	Giulio	Goffredo
+Giobbe	Giuliano	Geremia
+Gastone	Giuseppe	Girolamo
+Idalia	Ilaria
+Igina	Igea
+Imelda	Idalba
+Ilde	Ida
+Ilda	Imma
+Immacolata	Iole
+Idelma	Iginia
+Iride	Ilenia
+Iolanda	Iris
+Illuminata	Ippolita
+Iside	Ione
+Ires	Irene
+Isella	Isanna
+Isabella	Irma
+Isa	Ismene
+Isetta	Itria
+Itala	Isotta
+Ivana	Iva
+Maschili Ignazio	Ireneo
+Idreno	Icilio
+Isocrate	Inaco
+Ilario	Italo
+Israele	Isauro
+Icaro	Imero
+Ipazio	Ildefonso
+Isidoro	Ivonio
+Ivardo	Isaia
+Imerio	Iginio
+Igino	Ildo
+Idalio	Idalo
+Innocenzo	Indro
+Ificrate	Ivaldo
+Ivo	Ildebrando
+Ismaele	Isacco
+Ilaro	Ippolito
+Icio	
+Larissa	Laura	Loredana
+Laurana	Loretta	Laodamia
+Lorella	Leocrizia	Lavinia
+Lalla	Lara	Liboria
+Letizia	Licia	Laodice
+Lora	Lea	Lia
+Laila	Leila	Lelia
+Leonilde	Lidania	Leonzia
+Lice	Lilia	Lili
+Liana	Linda	Liviana
+Lidia	Lidiana	Luciana
+Leandra	Licena	Liliana
+Larisa	Lucia	Luce
+Lorenza	Lucilla	Lucrezia
+Lola	Laurenza	Ludovica
+Lorena	Luisa	Livia
+Lina	Luana	Lorediana
+Luigia	Luisella	Luisana
+Maschili Lamberto	Lelio	Letterio
+Leone	Leucio	Lavinio
+Landolfo	Liberio	Lauro
+Lidio	Lotario	Lieto
+Leonardo	Licinio	Leandro
+Lino	Luca	Lisandro
+Lallo	Leopoldo	Lindoro
+Lorenzo	Loris	Laerte
+Lauriano	Ludano	Ludovico
+Lucio	Licerio	Leo
+Ladislao	Luigi	Linceo
+Lullo	Luperio	Luciano
+Lazzaro	Libero	Leonzio
+Livio	Liborio	Lucrezio
+Lucilio	Lionello	Luciolo
+Lucidio	Leonida	Luperco
+Longino	Lussorio	Lupo
+Liberto		Magda	Maia	Margherita
+Maddalena	Mara	Macrina
+Madda	Maria	Mafalda
+Malvina	Melissa	Maida
+Marcella	Marfisia	Mimi
+Marilia	Maurizia	Medea
+Mercuria	Michela	Micaela
+Micol	Milena	Mila
+Marciana	Macaria	Melania
+Milica	Milka	Merina
+Maurilia	Milva	Minerva
+Martina	Marzia	Matilde
+Marika	Marina	Marinella
+Marilena	Marisa	Marta
+Moira	Marica	Maura
+Mia	Mariuccia	Malia
+Marianna	Miriam	Mariangela
+Mirella	Miriana	Miranda
+Mira	Miria	Moana
+Monica	Morgana	Malco	Maffeo	Mansueto
+Manfredo	Marco	Marsilio
+Martino	Manlio	Macrino
+Massimo	Marino	Matteo
+Marciano	Mattia	Maurizio
+Marzio	Maurilio	Mariano
+Macrobio	Mauro	Melaneo
+Mario	Massimiliano	Mederico
+Melchiorre	Meneo	Menandro
+Michele	Michelangelo	Metodio
+Melezio	Misaele	Mirtilo
+Mardonio	Montano	Modesto
+Mirco	Mirko	Morando
+Mercurio	Milvio	Moreno
+Milo	Muzio	Macario
+Mitridate	Mirone	Migdonio
+Milziade	Milone	Mida
+Minervino	Muziano	Merino
+Mosè	Monaldo	Menelao
+Marcello	Nadia	Narcisia
+Natascia	Natalia
+Nerina	Nedda
+Nausica	Nicoletta
+Nicole	Neera
+Nefertiti	Nina
+Neomisia	Nicla
+Ninì	Nicezia
+Nilvia	Ninfa
+Nadina	Nica
+Norzia	Nilva
+Nives	Noemi
+Ninetta	Norma
+Novella	Niobe
+Nazzaro	Narciso
+Nemesio	Napoleone
+Nerio	Nicasio
+Narseo	Nicezio
+Nestore	Nereo
+Nilo	Nicodemo
+Nevio	Nicomede
+Niniano	Nico
+Nicola	Noè
+
+Ofelia	Odilia
+Ottavia	Olga
+Onoria	Onfale
+Olivia	Ondina
+Onorata	Odetta
+Otilia	Oriella
+Olimpia	Orietta
+Orsina	Onorina
+Oride	Ornella
+Oria	Ornelia
+Orsola	Oriade
+Oriana	Ortenzia
+Osanna	Oddo	Odino
+Orio	Oberto
+Olindo	Omar
+Oderico	Onofrio
+Orfeo	Oliviero
+Onorato	Orlando
+Omero	Ortensio
+Oscar	Orazio
+Ostiano	Ovidio
+Oronzo	Ottavio
+Oreste	Osmondo
+Otello	Ottaviano
+Osvaldo	Paola	Patrizia
+Pandora	Perla
+Petronilla	Pelagia
+Palmira	Piera
+Preziosa	Penelope
+Placida	Priscilla
+Pompea	Prospera
+Pia	Porzia
+Palazia	Porsia
+Pulcheria	Pamelia
+Prisca	Pamela
+Perpetua	Polissena
+Pasqua	Palladia
+Panacea	Pasquale	Patrizio
+Palmiro	Pacomio
+Pelagio	Paolo
+Palamede	Peleo
+Pietro	Piero
+Pompeo	Pancrazio
+Placido	Petronio
+Perseo	Plinio
+Publio	Prezioso
+Pio	Porfirio
+Ponzio	Pierluigi
+Piergiorgio	Pierangelo
+Paride	Piersilvio
+Pandolfo	Ramona	Rebecca
+Rachele	Rebina
+Romina	Raffaella
+Rosa	Ruth
+Raimonda	Rodope
+Rosaria	Rosamunda
+Rosalia	Rubina
+Rufina	Renata
+Romilda	Riccarda
+Romola	Regina
+Rutilia	Rossella
+Rossana	Roberta
+Rosalia	Redenta
+Rosalinda	Rosalba
+Raimondo	Riccardo
+Raffaele	Raniero
+Rigoberto	Raffaello
+Rinaldo	Roberto
+Remiro	Remigio
+Rocco	Rodrigo
+Remo	Romeo
+Romualdo	Rodolfo
+Romolo	Rosario
+Randolfo	Raul
+Rubiano	Rolando
+Renato	Ruggero
+Romano	Rosalino
+Roderico	Redenzio
+Sabina	Savina	Sabrina
+Salvatrice	Salvadora	Samantha
+Samuela	Santina	Sara
+Saturna	Saturnia	Saveria
+Scilla	Scolastica	Sebastiana
+Selene	Selena	Selenia
+Selma	Selvaggia	Semira
+Serafina	Serena	Serenilla
+Severa	Severina	Sibilla
+Simonea	Silia	Simonetta
+Sira	Simea	Simona
+Silva	Selvina	Sidonia
+Silvia	Selva	Silvana
+Sirena	Siria	Sira
+Smeralda	Sobilia	Sofia
+Sonia	Sofronia	Sole
+Solidea	Speranza	Stefania
+Stenia	Stena	Stella
+Susanna	Sveva	Sueva
+
+Salvino	Salesio	Salmoneo
+Samuele	Sabatino	Savio
+Sansone	Saturnino	Saul
+Sabino	Savino	Saverio
+Salomone	Salvatore	Salvo
+Salverio	Sario	Sauro
+Sebastiano	Simmaco	Senesio
+Serse	Sisto	Simone
+Santo	Santino	Simeone
+Sico	Silvio	Simplicio
+Selesio	Sinisio	Siro
+Sempronio	Serafino	Sisto
+Sereno	Socrate	Sotero
+Sidone	Silvestro	Stanislao
+Scipione	Severino	Stefano
+Sigfrido	Silvano	Sergio
+Sileno	Silio	Sem
+Sabele	Sagare	Sallustio
+Salvio		Tabata	Tecla
+Teodolinda	Teresa
+Tessa	Teodora
+Tea	Tiana
+Taide	Tatiana
+Tamara	Tania
+Tilde	Tina
+Titina	Tosca
+Tarsilia	Tita
+Tazia	Tiberia
+Tiziana	Tolomea
+Tristana	Tullia
+Trofimena	Trifena
+Tomaide	Titania
+Tisbe	Teti
+Terenzia	Teonilla
+Tedosia	Temi
+Telica	Taurina
+Tabita	Tisha
+Teo	Teodolindo
+Teodoro	Teresio
+Tarsilio	Tazio
+Tarcisio	Tanino
+Tano	Tancredi
+Taddeo	Tosco
+Telesforo	Teobaldo
+Tibaldo	Terenzio
+Teseo	Tiberio
+Timoteo	Tito
+Tiziano	Tobia
+Tommaso	Tristano
+Tuccio	Tulio
+Trifone	Torquato
+Tindario	Terzio
+Teodosio	Teoberto
+Teocrito	Tassilo
+Tarasio	Talo
+Tacco	
+Nicolò	Niccolò
+Natale	Novilio
+Novato	Norberto
+Niceto	Nazario
+Nicomaco	Niso
+Ubalda	Urania
+Unna	Ulrica
+Umberta	Ubalda
+Ulfa	Ugolina
+Ursula	Uta
+Ubaldo	Uberto
+Umbro	Umberto
+Ulisse	Ulrico
+Ulderico	Ugo
+Ursicio	Uriele
+
+Viola	Violetta
+Valentina	Valenzia
+Vanessa	Veronica
+Virginia	Vittoria
+Vittorina	Vittoriana
+Vanda	Vincenza
+Vera	Verdiana
+Veridiana	Verena
+Vetulia	Viviana
+Virna	Violante
+Vienna	Valchiria
+Valeriana	Valeria
+Vania	Vanna
+Velia	Venera
+Veneranda	Verbena
+Verilla	Vesna
+Velma	Vlasta
+Valdetruda	Venanzio	Venazio
+Valdemaro	Valdimaro
+Valente	Valentino
+Valeriano	Valerio
+Venceslao	Vilfrido
+Virgilio	Vitale
+Vitalio	Vincenzo
+Vittorio	Vittorino
+Volfango	Volfrano
+Vladimiro	Viviano
+Valdo	Vanni
+Vanio	Varo
+Vasco	Venturino
+Vezio	Vespasiano
+Vinicio	Virginio
+Vito	Voltero
+Vedasto	Velio
+Vidone	Vilfredo
+Zebina	Zaffira
+Zafira	Zenaide
+Zaira	Zama
+Zanobia	Zemira
+Zanita	Zara
+Zoraida	Zelinda
+Zelmira	Zerlina
+Zina	Zita
+Zoe	Zula
+Zoie	Zahia
+Zoya	Zaccaria	Zaccheo
+Zebedeo	Zafferino
+Zefirino	Zelfirino
+Zefiro	Zeffiro
+Zelindo	Zeno
+Zanobio	Zenio
+Zenone	Zerbino
+Zetico	Zoilo
+Zito	Zlatan
+Zoran	Zac
+Zabel	
